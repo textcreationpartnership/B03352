@@ -1,0 +1,303 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The forsaken maids frollick or, A farewell to fond love, in which she doth plainly and properly prove, that a flattering tongue is the ruine of love, and therefore all you that are well in your wits, beware of trappans, maids loot to your hits. The tune is, The knights and begger-wench.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1666-1677?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03352</idno>
+            <idno type="STC">Wing F1599</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.8[178]</idno>
+            <idno type="EEBO-CITATION">99887705</idno>
+            <idno type="PROQUEST">ocm99887705</idno>
+            <idno type="VID">183353</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03352)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183353)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:2[144])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The forsaken maids frollick or, A farewell to fond love, in which she doth plainly and properly prove, that a flattering tongue is the ruine of love, and therefore all you that are well in your wits, beware of trappans, maids loot to your hits. The tune is, The knights and begger-wench.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Whitwood at the Golden Bell at Duck-Lane End.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[between 1666-1677]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Verse: "You females all give ear ..."</note>
+                  <note>Trimmed.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="178" facs="tcp:183353:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 18 -->
+            <head>The forſaken Maids Frollick <hi>OR, A</hi> Farewell to fond Love,</head>
+            <argument>
+               <l>In which ſhe doth plainly and properly prove,</l>
+               <l>That a flattering tongue is the ruine of Love,</l>
+               <l>And therefore all you that are well in your wits,</l>
+               <l>Beware of Trappans, Maide look to your Hits.</l>
+            </argument>
+            <opener>The Tune is, The Knight and begger-wench.</opener>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>YOu Females all give ear,</l>
+               <l>To that which I ſhall declare</l>
+               <l>and liſten unto my Song,</l>
+               <l>I lov'd a young man as fair</l>
+               <l>To me he paſt compare,</l>
+               <l>my too much Love did me wrong,</l>
+               <l>He often did vow and profeſt,</l>
+               <l>that he would be true to me:</l>
+               <l>But now he's forſworn</l>
+               <l>I ſcorn for to mourn,</l>
+               <l>
+                  <hi>Another<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s as good as he.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The features of his face</l>
+               <l>Did yeild becoming grace,</l>
+               <l>but his tongue &amp; his heart were baſe:</l>
+               <l>When firſt he began to toy,</l>
+               <l>I ſéemed a little coy,</l>
+               <l>and yet my heart leapt for joy.</l>
+               <l>ſo frollick he was and frée</l>
+               <l>in coakfing and kiſſing of me,</l>
+               <l>that had he but</l>
+               <l>more me put too't,</l>
+               <l>
+                  <hi>I had bin as bad as he,</hi>
+               </l>
+            </lg>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>His teeth did appear like Pearls</l>
+               <l>His locks they hung down in Curls,</l>
+               <l>May fetter a thouſand Girls,</l>
+               <l>His forehead is mounted high</l>
+               <l>And whiter then Ivory,</l>
+               <l>This is a brave man thought I.</l>
+               <l>His lips had a very good ſmack,</l>
+               <l>His Eyes were-both bonny &amp; black,</l>
+               <l>Thought I, if I wed,</l>
+               <l>For boord or bed,</l>
+               <l>
+                  <hi>Here's one that will hold me tack.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>When he about me clung</l>
+               <l>You would think that an Angel ſung,</l>
+               <l>So muſical was his Tongue,</l>
+               <l>To make my heart believe</l>
+               <l>He could both ſigh and grieve,</l>
+               <l>The Devil ſo tempted Eve,</l>
+               <l>This flattering fauning Elf,</l>
+               <l>When he had got all my pelf,</l>
+               <l>And ſquandred my goods,</l>
+               <l>He left me i'th ſudds</l>
+               <l>
+                  <hi>And bid me go hang my ſelf.</hi>
+               </l>
+            </lg>
+            <pb n="179" facs="tcp:183353:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 18 -->
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>BVt tarry, ſoft and fair,</l>
+               <l>More Men in the World there are</l>
+               <l>why ſhould I fall in deſpair,</l>
+               <l>Since my firſt Love is ſpoyl'd</l>
+               <l>And I am yet undefil'd,</l>
+               <l>Ile never be more beguild.</l>
+               <l>his falſhood hath ſet me frée,</l>
+               <l>and now for another Ile be,</l>
+               <l>harm watch, harm catch.</l>
+               <l>he's met with his match.</l>
+               <l>
+                  <hi>Let him go and be hanged for me.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>My ſpirits I will advance</l>
+               <l>I'le learn to ſing and dance,</l>
+               <l>but love now and then by chance,</l>
+               <l>If any Man me will boord,</l>
+               <l>Though he ſwear by his ſoul &amp; ſword,</l>
+               <l>Ile never believe a Word,</l>
+               <l>my reaſon ſhall be my guide,</l>
+               <l>my honeſty be my pride,</l>
+               <l>for if we grant them a kiſs</l>
+               <l>men think that it is,</l>
+               <l>
+                  <hi>No more but get up and ride.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Tis neither the tongue or pen</l>
+               <l>Of any falſe-hearted men,</l>
+               <l>ſhall flatter my faith agen,</l>
+               <l>Since my firſt Love did get</l>
+               <l>My Money by ſlye deceit,</l>
+               <l>another ſhall pay the debt.</l>
+               <l>whatever he gives Ile take</l>
+               <l>and merry my ſelf Ile make,</l>
+               <l>Her mind is amiſs</l>
+               <l>That really is</l>
+               <l>
+                  <hi>A Lover for Conſcience ſake.</hi>
+               </l>
+            </lg>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>If a Suitor do turn a Iew,</l>
+               <l>And will not give Love his due,</l>
+               <l>Why ſhould a young Wench be true</l>
+               <l>If Wooing be but the Way</l>
+               <l>To flatter and then betray,</l>
+               <l>We'l flatter as well as they,</l>
+               <l>For they that can break a vow,</l>
+               <l>Teach women what they ſhall <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>If <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o play faſt and looſe</l>
+               <l>Be good for the Gooſe,</l>
+               <l>
+                  <hi>Tis good for the Gander too.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>For if a deceitful man</l>
+               <l>My treaſury will Trappan,</l>
+               <l>I'le Coakes him agen if I can,</l>
+               <l>And if there be ne're a hell</l>
+               <l>For Lovers that lies do tell,</l>
+               <l>A Woman may do't as well,</l>
+               <l>If Batchellors prove not true</l>
+               <l>The Maidens may do ſo too.</l>
+               <l>Tis Wit for Wit,</l>
+               <l>And Hit for Hit,</l>
+               <l>
+                  <hi>And this is but Qui<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> for Quo.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But yet the powers above</l>
+               <l>Do nothing ſo much approve,</l>
+               <l>as Loyal and conſtant Love,</l>
+               <l>When honeſt intent invites</l>
+               <l>And ſpirit with ſpirit unites,</l>
+               <l>thoſe Lovers have true delights,</l>
+               <l>When all the deceitful Gives</l>
+               <l>That cozen by twenty and twelves</l>
+               <l>'tis forty to one</l>
+               <l>e're the Game be done,</l>
+               <l>
+                  <hi>They ſhall be deceiv'd themſelves.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for W. Whitwood at the Golden Bell at Duck-Lane End.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
